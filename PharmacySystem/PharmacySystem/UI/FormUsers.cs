@@ -16,5 +16,10 @@ namespace PharmacySystem
         {
             InitializeComponent();
         }
+
+        private void FormUsers_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
