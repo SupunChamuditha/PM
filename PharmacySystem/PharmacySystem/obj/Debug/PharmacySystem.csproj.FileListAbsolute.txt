@@ -9,3 +9,4 @@ C:\Users\supun\source\repos\PharmacySystem\PharmacySystem\obj\Debug\PharmacySyst
 C:\Users\supun\source\repos\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
 C:\Users\supun\source\repos\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.AssemblyReference.cache
 C:\Users\supun\source\repos\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.FormStock.resources
+C:\Users\supun\source\repos\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.FormUsers.resources
